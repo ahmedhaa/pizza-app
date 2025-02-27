@@ -1,6 +1,6 @@
 Projet de Gestion de Pizzas
 
-Description
+## Description
 
 Ce projet est une application web permettant la gestion des pizzas, des commandes et des utilisateurs. Il est divisé en deux parties :
 
@@ -8,7 +8,7 @@ Backend (API REST) : Développé avec .NET Core 6, il fournit des endpoints pour
 
 Frontend (Angular 14) : Interface utilisateur développée avec Angular, intégrant un système d'authentification, une interface d'administration et une interface utilisateur.
 
-Compte administrateur de test:
+## Compte administrateur de test:
 
 Email : ahmed@test.com
 Mot de passe : Password123!
@@ -17,7 +17,7 @@ Mot de passe : Password123!
 
 Lors du premier démarrage, la base de données est automatiquement générée.
 
-1. Backend - API REST (.NET Core 6)
+## 1. Backend - API REST (.NET Core 6)
 
 Technologies utilisées
 
@@ -53,7 +53,7 @@ Structure de l'API
 
 
 
-2. Frontend - Application Angular 14
+## 2. Frontend - Application Angular 14
 
 Technologies utilisées
 
