@@ -44,21 +44,8 @@ Gestion des commandes (Création, récupération des commandes d'un utilisateur.
 ✅ Gestion des erreurs centralisée
 
 Structure de l'API
-/pizza-api
-│
-├── Controllers/               # Contrôleurs de l'API
-│   ├── AuthController.cs      # Authentification
-│   ├── PizzasController.cs    # Gestion des pizzas
-│   ├── CommandesController.cs # Gestion des commandes
-│   ├── UserController.cs      # Gestion des utilisateurs
-│
-├── Data/                      # Base de données SQLite & contexte
-├── Services/                  # Logique métier
-├── Interfaces/                # Interfaces des services
-├── Entities/                  # Modèles de données
-├── Migrations/                # Migrations de la base de données
-├── appsettings.json           # Configuration
-└── Program.cs                 # Démarrage de l'application
+![image](https://github.com/user-attachments/assets/553db203-4fc1-4422-8396-0bef465d961e)
+
 
 2. Frontend - Application Angular 14
 
