@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\services\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\services\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\controllers\\commandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\controllers\\commandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\services\\commandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\services\\commandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\commandes\\commandestatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\commandes\\commandestatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\commandes\\commandedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\commandes\\commandedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\commandes\\commandecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\commandes\\commandecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\entities\\usermodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\entities\\usermodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\pizzadto\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\pizzadto\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\pizzadto\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\pizzadto\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\pizzadto\\pizzaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\pizzadto\\pizzaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\dto\\pizzadto\\pizzacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\dto\\pizzadto\\pizzacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\logs\\pizzaapp20250225.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\logs\\pizzaapp20250225.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|c:\\users\\ahmedhamdaoui\\source\\repos\\pizza-app\\pizza-app\\services\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335574BB-B830-417C-ABBB-78EA478DA8F5}|pizza-app\\pizza-app.csproj|solutionrelative:pizza-app\\services\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\Initializer.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Services\\Initializer.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\Initializer.cs",
+              "RelativeToolTip": "pizza-app\\Services\\Initializer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:59:25.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandeService.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\CommandeService.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Services\\CommandeService.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\CommandeService.cs",
+              "RelativeToolTip": "pizza-app\\Services\\CommandeService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:36:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommandeDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\Commandes\\CommandeDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\Commandes\\CommandeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:43:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandeStatusUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeStatusUpdateDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\Commandes\\CommandeStatusUpdateDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeStatusUpdateDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\Commandes\\CommandeStatusUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:15:39.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Program.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Program.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Program.cs",
+              "RelativeToolTip": "pizza-app\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:57:58.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeCreateDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\Commandes\\CommandeCreateDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\Commandes\\CommandeCreateDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\Commandes\\CommandeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:48:08.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzasController.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\PizzasController.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Controllers\\PizzasController.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\PizzasController.cs \u2B24",
+              "RelativeToolTip": "pizza-app\\Controllers\\PizzasController.cs \u2B24",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:53:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandesController.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\CommandesController.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Controllers\\CommandesController.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\CommandesController.cs",
+              "RelativeToolTip": "pizza-app\\Controllers\\CommandesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:53:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Enums\\Status.cs",
+              "RelativeToolTip": "pizza-app\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:49:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "pizza-app\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:34:29.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\UserController.cs",
+              "RelativeToolTip": "pizza-app\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:27:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PizzaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaCreateDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\PizzaDTO\\PizzaCreateDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaCreateDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\PizzaDTO\\PizzaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:29:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\PizzaService.cs",
+              "RelativeToolTip": "pizza-app\\Services\\PizzaService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:37:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\UserDto\\UserDTO.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\UserDto\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\UserDto\\UserDTO.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\UserDto\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:01:59.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\UserService.cs",
+              "RelativeToolTip": "pizza-app\\Services\\UserService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:35:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "pizza-app\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:47:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Entities\\UserModel\\User.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Entities\\UserModel\\User.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Entities\\UserModel\\User.cs",
+              "RelativeToolTip": "pizza-app\\Entities\\UserModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:56:14.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "pizza-app\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:55:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PizzaDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\PizzaDTO\\PizzaDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\PizzaDTO\\PizzaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:27:58.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PizzaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaUpdateDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\PizzaDTO\\PizzaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\PizzaUpdateDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\PizzaDTO\\PizzaUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:40:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IngredientDto.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\IngredientDto.cs",
+              "RelativeDocumentMoniker": "pizza-app\\DTO\\PizzaDTO\\IngredientDto.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\DTO\\PizzaDTO\\IngredientDto.cs",
+              "RelativeToolTip": "pizza-app\\DTO\\PizzaDTO\\IngredientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:44:05.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Interfaces\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Interfaces\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Interfaces\\IPizzaService.cs",
+              "RelativeToolTip": "pizza-app\\Interfaces\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:45:59.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pizzaapp20250225.txt",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\logs\\Pizzaapp20250225.txt",
+              "RelativeDocumentMoniker": "pizza-app\\logs\\Pizzaapp20250225.txt",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\logs\\Pizzaapp20250225.txt",
+              "RelativeToolTip": "pizza-app\\logs\\Pizzaapp20250225.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-25T20:28:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "pizza-app\\Services\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\source\\repos\\pizza-app\\pizza-app\\Services\\Common\\PagedResult.cs",
+              "RelativeToolTip": "pizza-app\\Services\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:34:53.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
