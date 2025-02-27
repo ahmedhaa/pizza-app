@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pizza-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae8fbef08379d4e37a295301d27ee53a72675718")]
 [assembly: System.Reflection.AssemblyProductAttribute("pizza-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pizza-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
