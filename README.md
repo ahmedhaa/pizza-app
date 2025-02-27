@@ -48,44 +48,9 @@ Gestion des commandes (Création, récupération des commandes d'un utilisateur.
 ✅ Gestion des erreurs centralisée
 
 ## Structure de l'API
-/pizza-app
-│
-├── Controllers/               # Les contrôleurs gérant les routes HTTP
-│   ├── AuthController.cs      # Authentification et gestion des utilisateurs
-│   ├── CommandesController.cs # Gestion des commandes de pizzas
-│   ├── PizzasController.cs    # Gestion des pizzas
-│   └── UserController.cs      # Gestion des utilisateurs
-│
-├── Data/                      # Contient les classes liées à la base de données
-│   ├── ApplicationDbContext.cs # Contexte de base de données
-│   └── Pizza.db               # Fichier de la base de données SQLite
-│
-├── Entities/                  # Contient les modèles de données utilisés dans l'application
-│   ├── UserModel.cs           # Modèle de l'utilisateur
-│   └── PizzaModel.cs          # Modèle de la pizza
-│
-├── Enums/                     # Enumérations utilisées dans l'application
-│   ├── RoleEnum.cs            # Définition des rôles d'utilisateur
-│
-├── Interfaces/                # Interfaces pour l'injection de dépendances
-│   ├── IUserService.cs        # Interface pour les services utilisateurs
-│   ├── IPizzaService.cs       # Interface pour les services pizzas
-│   └── ICommandeService.cs    # Interface pour les services commandes
-│
-├── Logs/                      # Dossier contenant les fichiers journaux (logs)
-│   └── Pizzaapp.txt           # Logs de l'application
-│
-├── Migrations/                # Fichiers générés pour gérer les migrations de la base de données
-│   ├── 2025..._InitialCreate.cs
-│   └── 2025..._AddPizzaModel.cs
-│
-├── Services/                  # Contient la logique métier et les services
-│   ├── UserService.cs         # Service pour la gestion des utilisateurs
-│   ├── PizzaService.cs        # Service pour la gestion des pizzas
-│   └── CommandeService.cs     # Service pour la gestion des commandes
-│
-├── appsettings.json           # Fichier de configuration de l'application (connexion DB, JWT, etc.)
-└── Program.cs                 # Point d'entrée de l'application et configuration des services
+![image](https://github.com/user-attachments/assets/35018a2d-9bd9-4843-8b54-3aab1b7e6f69)
+![image](https://github.com/user-attachments/assets/c871a438-d383-43eb-a4d3-6d89025f7f1d)
+
 
 
 
