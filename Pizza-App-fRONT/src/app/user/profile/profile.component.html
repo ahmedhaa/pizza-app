@@ -1,0 +1,32 @@
+<mat-card>
+<mat-card-header class="card-header">
+    <mat-card-title>Client Dashboard</mat-card-title>
+    <mat-card-subtitle>Bienvenue, {{ currentUser?.name }}</mat-card-subtitle>
+    <!-- Bouton de déconnexion aligné à droite -->
+    <div class="header-actions">
+        <button mat-button (click)="logout()">Déconnexion</button>
+    </div>
+</mat-card-header>
+<div *ngIf="pizzas.length > 0; else noPizzas" class="pizza-list">
+    <div *ngFor="let pizza of pizzas" class="pizza-tile">
+        <div class="pizza-tile-header">
+            <h3>{{ pizza.nom }}</h3>
+        </div>
+        <div class="pizza-tile-body">
+            <p>Prix: {{ pizza.prix | currency }}</p>
+            <p><strong>Ingrédients:</strong>
+                <span *ngIf="pizza.ingredients && pizza.ingredients.length > 0">
+                    <span *ngFor="let ingredient of pizza.ingredients; let i = index">
+                        {{ ingredient }}<span *ngIf="i < pizza.ingredients.length - 1">, </span>
+                    </span>
+                </span>
+                <span *ngIf="!pizza.ingredients || pizza.ingredients.length === 0">Aucun ingrédient</span>
+            </p>
+        </div>
+    </div>
+</div>
+</mat-card>
+<!-- Message si aucune pizza n'est disponible -->
+<ng-template #noPizzas>
+    <p>Aucune pizza disponible.</p>
+</ng-template>

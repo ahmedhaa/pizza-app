@@ -1,0 +1,27 @@
+<div class="login-container">
+    <mat-card class="login-card">
+        <mat-card-header>
+            <mat-card-title>Connexion</mat-card-title>
+        </mat-card-header>
+
+        <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <mat-form-field appearance="fill" class="form-field">
+                <mat-label>Email</mat-label>
+                <input matInput formControlName="email" type="email" placeholder="Entrez votre email" />
+            </mat-form-field>
+
+            <mat-form-field appearance="fill" class="form-field">
+                <mat-label>Mot de passe</mat-label>
+                <input matInput formControlName="password" type="password" placeholder="Entrez votre mot de passe" />
+            </mat-form-field>
+
+            <button mat-raised-button color="primary" type="submit">Se connecter</button>
+        </form>
+
+        <div *ngIf="loginMessage" class="login-message">
+            <mat-error>{{ loginMessage }}</mat-error>
+        </div>
+
+
+</mat-card>
+</div>

@@ -1,0 +1,43 @@
+.commande-table {
+    width: 100%;
+    /* La table occupe toute la largeur disponible */
+    font-size: 1rem;
+    /* Augmente la taille de la police */
+}
+
+.mat-row,
+.mat-header-row {
+    height: 60px;
+    /* Augmente la hauteur des lignes */
+}
+
+.mat-cell,
+.mat-header-cell {
+    padding: 16px;
+    /* Ajoute du padding aux cellules */
+}
+
+.mat-column-id {
+    width: 80px;
+    /* Ajuste la largeur de la colonne ID */
+}
+
+.mat-column-dateCommande {
+    width: 150px;
+    /* Ajuste la largeur de la colonne Date de Commande */
+}
+
+.mat-column-status {
+    width: 120px;
+    /* Ajuste la largeur de la colonne Status */
+}
+
+.mat-column-nom {
+    width: 300px;
+    /* Ajuste la largeur de la colonne Pizzas Commandées */
+}
+
+.mat-column-action {
+    width: 150px;
+    /* Ajuste la largeur de la colonne Actions */
+}

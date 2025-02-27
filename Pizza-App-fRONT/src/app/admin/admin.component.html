@@ -1,0 +1,36 @@
+<div *ngIf="isAdmin" class="admin-container">
+    <mat-card>
+        <mat-card-header class="card-header">
+            <mat-card-title>Admin Dashboard</mat-card-title>
+            <mat-card-subtitle>Bienvenue, {{ currentUser?.name }}</mat-card-subtitle>
+            <!-- Bouton de déconnexion aligné à droite -->
+            <div class="header-actions">
+                <button mat-button (click)="logout()">Déconnexion</button>
+            </div>
+        </mat-card-header>
+
+        <mat-card-content>
+            <!-- Menu horizontal -->
+            <mat-nav-list class="horizontal-menu">
+                <a mat-list-item routerLink="/admin/pizza-management">
+                    <mat-icon>local_pizza</mat-icon>
+                    Gestion des pizzas
+                </a>
+                <a mat-list-item routerLink="/admin/order-management">
+                    <mat-icon>shopping_cart</mat-icon>
+                    Gestion des commandes
+                </a>
+                <a mat-list-item routerLink="/admin/user-management">
+                    <mat-icon>group</mat-icon>
+                    Tableau des utilisateurs
+                </a>
+            </mat-nav-list>
+        </mat-card-content>
+    </mat-card>
+</div>
+
+<!-- Si l'utilisateur n'est pas admin -->
+<div *ngIf="!isAdmin">
+    <p>Vous n'avez pas les autorisations nécessaires pour accéder à cette page.</p>
+</div>
+<router-outlet></router-outlet>

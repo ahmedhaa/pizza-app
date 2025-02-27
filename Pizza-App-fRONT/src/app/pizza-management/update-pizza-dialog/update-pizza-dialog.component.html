@@ -1,0 +1,26 @@
+<h2 mat-dialog-title>Mettre à jour la pizza</h2>
+<mat-dialog-content>
+    <form (ngSubmit)="updatePizza()" class="pizza-update-form">
+        <div class="form-group">
+            <label for="nom">Nom de la pizza:</label>
+            <input type="text" id="nom" [(ngModel)]="pizza.nom" name="nom" required class="input-field" />
+        </div>
+        <div class="form-group">
+            <label for="prix">Prix:</label>
+            <input type="number" id="prix" [(ngModel)]="pizza.prix" name="prix" required min="0.01"
+                class="input-field" />
+        </div>
+        <div class="form-group">
+            <label for="ingredients">Ingrédients:</label>
+            <select multiple [(ngModel)]="pizza.ingredientsIds" name="ingredients" required class="input-field">
+                <option *ngFor="let ingredient of ingredientsList" [value]="ingredient.id">
+                    {{ ingredient.name }}
+                </option>
+            </select>
+        </div>
+        <mat-dialog-actions class="dialog-actions">
+            <button mat-button type="submit">Mettre à jour</button>
+            <button mat-button (click)="closeDialog()">Annuler</button>
+        </mat-dialog-actions>
+    </form>
+</mat-dialog-content>

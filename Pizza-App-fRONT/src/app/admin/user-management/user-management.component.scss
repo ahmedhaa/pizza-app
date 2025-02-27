@@ -1,0 +1,28 @@
+.user-management {
+    margin: 20px;
+}
+
+mat-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+mat-header-cell,
+mat-cell {
+    padding: 8px;
+    text-align: left;
+}
+
+mat-paginator {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+table {
+    width: 100%;
+}
+
+.mat-column-delete {
+    width: 100px;
+    /* Ajustez la largeur de la colonne de suppression */
+}

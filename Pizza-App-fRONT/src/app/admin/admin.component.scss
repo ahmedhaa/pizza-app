@@ -1,0 +1,42 @@
+.admin-container .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+/* Menu horizontal */
+.horizontal-menu {
+    display: flex;
+    justify-content: space-around;
+    /* Espacement égal entre les éléments */
+    padding: 0;
+    /* Enlever les marges par défaut */
+    list-style-type: none;
+    /* Retirer les puces des éléments de la liste */
+}
+
+.horizontal-menu a {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    /* Retirer la décoration du lien */
+    color: inherit;
+    /* Hériter de la couleur du texte parent */
+}
+
+.horizontal-menu mat-icon {
+    margin-right: 8px;
+    /* Espacement entre l'icône et le texte */
+}
+
+.horizontal-menu a:hover {
+    background-color: #f0f0f0;
+    /* Change la couleur de fond au survol */
+}
