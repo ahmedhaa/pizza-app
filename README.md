@@ -13,6 +13,10 @@ Compte administrateur de test:
 Email : ahmed@test.com
 Mot de passe : Password123!
 
+## Initialisation de la Base de Données
+
+Lors du premier démarrage, la base de données est automatiquement générée.
+
 1. Backend - API REST (.NET Core 6)
 
 Technologies utilisées
