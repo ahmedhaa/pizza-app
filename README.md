@@ -45,6 +45,8 @@ Gestion des commandes (Création, récupération des commandes d'un utilisateur.
 
 Structure de l'API
 ![image](https://github.com/user-attachments/assets/553db203-4fc1-4422-8396-0bef465d961e)
+![image](https://github.com/user-attachments/assets/989ef334-7635-4a56-8671-5822efe3c70f)
+
 
 
 2. Frontend - Application Angular 14
